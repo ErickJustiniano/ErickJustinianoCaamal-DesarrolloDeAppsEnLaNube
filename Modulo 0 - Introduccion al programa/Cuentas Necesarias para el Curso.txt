@@ -1,0 +1,8 @@
+GitHub
+User: ErickJustiniano
+Email: justi007_5@hotmail.com
+Pass: Escorpion1.5
+
+Heroku
+Email: justi007_5@hotmail.com
+Pass: Escorpion1.5
